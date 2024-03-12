@@ -39,6 +39,7 @@ I made a virtual dektop AI pet game on Unity. You can have your own AI character
 <br />
 <br />
 <h3> <p align="center">Fishing minigame </p> </h3>
+<p align="center">Buy a fishing rod and start fishing in a pond with randomly generated fishes with different rarities. Watch out for the tension meter, the line can break! Once you catch a fish, you can either cook it or sell it.</p> <br/>
 <p align="center"> 
  
 https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/6f805820-2750-4c49-8702-e6bb5298f9dc 
@@ -47,6 +48,7 @@ https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/6f805820-2750-4c49
 <br />
 <br />
 <h3> <p align="center">Cooking minigame </p> </h3>
+<p align="center">Once you have enough ingredients for a recipe, you can start cooking it. Perform a qte for each ingredient that the recipe requires. Hitting all the qte's gives you a 3 star food, while missing qte's gives you a lower star food. You can get higher rarity food by using high rarity ingredients and getting a 3 star food. Higher rarity food has better stats and getting a legendary food even gives an extra stat. </p> <br/>
 <p align="center"> 
  
 https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/e4f90e6a-5a89-457a-a8c2-fd7b577d8eba
@@ -55,6 +57,7 @@ https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/e4f90e6a-5a89-457a
 <br />
 <br />
 <h3> <p align="center">Combat minigame </p> </h3>
+<p align="center">Choose a character that has character specific actions. Choose one of the game changing random anomalies from a big pool of anomalies. Fight against randomly generated enemies in a hexagon grid turn-based game. You have a limited amount of action points each turn that you can use to perform one of the actions. Kill all the enemies to go to the next wave. Once you kill all the enemies, you spawn in a supply room with 4 random tiles that are either normal combat tiles, elite combat tiles, boss combat tiles, shop tiles etc. Moving to the shop tile opens the shop where you can buy new actions tiles and more with the gold you earned after beating a wave. Combat tiles start the next wave, and on the very last wave the boss combat tile spawns where you fight a challanging boss.</p> <br/>
 <p align="center"> 
  
 https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/5ffa5be7-b331-42eb-92c0-9b6669c0fb86
