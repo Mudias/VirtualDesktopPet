@@ -52,6 +52,14 @@ https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/6f805820-2750-4c49
 https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/e4f90e6a-5a89-457a-a8c2-fd7b577d8eba
 
 </p>
+<br />
+<br />
+<h3> <p align="center">Combat minigame </p> </h3>
+<p align="center"> 
+ 
+https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/5ffa5be7-b331-42eb-92c0-9b6669c0fb86
+
+</p>
 
 <!--
 
