@@ -13,7 +13,6 @@ I made a virtual dektop AI pet game on Unity. You can have your own AI character
 
 <h2>Images of the game:</h2>
 
-<p align="center">
 <h3><p align="center">Talk to your AI Character on your desktop</p></h3>
 <p align="center">You can either talk to your character with a microphone or type to them. </p> <br/>
 <p align="center"><img src="https://i.imgur.com/HiW9dqD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
@@ -37,9 +36,25 @@ I made a virtual dektop AI pet game on Unity. You can have your own AI character
 <h3> <p align="center">Cooking activity </p> </h3>
 <p align="center">Get enough ingredients for recipes and play a cooking minigame. Each recipe gives different stats, they also have rarities and each rarity can give extra stats for combat, fishing or other activities. </p> <br/>
 <p align="center"><img src="https://i.imgur.com/MEM73w5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
+<br />
+<br />
+<h3> <p align="center">Fishing minigame </p> </h3>
+<p align="center"> 
+ 
+https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/6f805820-2750-4c49-8702-e6bb5298f9dc 
+ 
+</p>
+<br />
+<br />
+<h3> <p align="center">Cooking minigame </p> </h3>
+<p align="center"> 
+ 
+https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/e4f90e6a-5a89-457a-a8c2-fd7b577d8eba
+
 </p>
 
 <!--
+
  ```diff
 - text in red
 + text in green
