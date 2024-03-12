@@ -1,7 +1,7 @@
 <h1>Virtual Desktop AI Pet</h1>
 
 <h2>Description</h2>
-I made a virtual dektop AI pet game on Unity. You can have your own AI characters roaming on your desktop and talk to them. The characters have emotions and they also have stats like health, thirst, energy etc. You can feed your character by either buying food from the shop or cook yourself in a cooking minigame. You can make your character do activities or you can play some minigames yourself like fishing, cooking, combat etc.
+I am developing a virtual dektop AI pet game on Unity. You can have your own AI characters roaming on your desktop and talk to them. The characters have emotions and they also have stats like health, thirst, energy etc. You can feed your character by either buying food from the shop or cook yourself in a cooking minigame. You can make your character do activities or you can play some minigames yourself like fishing, cooking, combat etc.
 <br />
 
 
