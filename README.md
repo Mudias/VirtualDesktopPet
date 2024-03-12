@@ -11,7 +11,7 @@ I made a virtual dektop AI pet game on Unity. You can have your own AI character
 - <b>Blender</b>
 - <b>Figma</b>
 
-<h2>Images and videos of the game:</h2>
+<h2>Images and videos of the game</h2>
 
 <h3><p align="center">Talk to your AI Character on your desktop</p></h3>
 <p align="center">You can either talk to your character with a microphone or type to them. </p> <br/>
