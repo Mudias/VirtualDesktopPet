@@ -50,8 +50,8 @@ https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/6f805820-2750-4c49
 <h3> <p align="center">Cooking minigame </p> </h3>
 <p align="center">Once you have enough ingredients for a recipe, you can start cooking it. Perform a qte for each ingredient that the recipe requires. Hitting all the qte's gives you a 3 star food, while missing qte's gives you a lower star food. You can get higher rarity food by using high rarity ingredients and getting a 3 star food. Higher rarity food has better stats and getting a legendary food even gives an extra stat. </p> <br/>
 <p align="center"> 
- 
-https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/e4f90e6a-5a89-457a-a8c2-fd7b577d8eba
+
+https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/e394ec3f-bace-4de5-8a85-f3db0c56e986
 
 </p>
 <br />
