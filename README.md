@@ -14,6 +14,17 @@ I am developing a virtual desktop AI pet game on Unity. You can have your own AI
 
 <h2>Images and videos of the game</h2>
 
+</p>
+<br />
+<br />
+<h3> <p align="center">Combat minigame </p> </h3>
+<p align="center">Choose a character that has character specific actions. Choose one of the game changing random anomalies from a big pool of anomalies. Fight against randomly generated enemies in a hexagon grid turn-based game. You have a limited amount of action points each turn that you can use to perform one of the actions. Kill all the enemies to go to the next wave. Once you kill all the enemies, you spawn in a supply room with 4 random tiles that are either normal combat tiles, elite combat tiles, boss combat tiles, shop tiles etc. Moving to the shop tile opens the shop where you can buy new actions tiles and more with the gold you earned after beating a wave. Combat tiles start the next wave, and on the very last wave the boss combat tile spawns where you fight a challanging boss.</p> <br/>
+<p align="center"> 
+ 
+https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/5ffa5be7-b331-42eb-92c0-9b6669c0fb86
+
+</p>
+
 <h3><p align="center">Talk to your AI Character on your desktop</p></h3>
 <p align="center">You can either talk to your character with a microphone or type to them. </p> <br/>
 <p align="center"><img src="https://i.imgur.com/HiW9dqD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
@@ -53,17 +64,6 @@ https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/6f805820-2750-4c49
 <p align="center"> 
 
 https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/e394ec3f-bace-4de5-8a85-f3db0c56e986
-
-</p>
-<br />
-<br />
-<h3> <p align="center">Combat minigame </p> </h3>
-<p align="center">Choose a character that has character specific actions. Choose one of the game changing random anomalies from a big pool of anomalies. Fight against randomly generated enemies in a hexagon grid turn-based game. You have a limited amount of action points each turn that you can use to perform one of the actions. Kill all the enemies to go to the next wave. Once you kill all the enemies, you spawn in a supply room with 4 random tiles that are either normal combat tiles, elite combat tiles, boss combat tiles, shop tiles etc. Moving to the shop tile opens the shop where you can buy new actions tiles and more with the gold you earned after beating a wave. Combat tiles start the next wave, and on the very last wave the boss combat tile spawns where you fight a challanging boss.</p> <br/>
-<p align="center"> 
- 
-https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/5ffa5be7-b331-42eb-92c0-9b6669c0fb86
-
-</p>
 
 <!--
 
