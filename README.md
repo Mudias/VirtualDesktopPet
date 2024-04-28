@@ -23,11 +23,11 @@ I am developing a virtual desktop AI pet game on Unity. You can have your own AI
 <br />
 <h3> <p align="center">Activities </p> </h3>
 <p align="center"> Choose one of the activities and play it while browsing the web.</p> <br/>
-<p align="center"> 
+<div align="center">
 
 https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/59cfe18d-b80b-4354-9578-6d1ee95a1872
 
-</p>
+</div>
 
 <h3><p align="center">Talk to your AI Character on your desktop</p></h3>
 <p align="center">You can either talk to your character with a microphone or type to them. </p> <br/>
@@ -56,9 +56,11 @@ https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/59cfe18d-b80b-4354
 <br />
 <h3> <p align="center">Cooking minigame </p> </h3>
 <p align="center">Once you have enough ingredients for a recipe, you can start cooking it. Perform a qte for each ingredient that the recipe requires. Hitting all the qte's gives you a 3 star food, while missing qte's gives you a lower star food. You can get higher rarity food by using high rarity ingredients and getting a 3 star food. Higher rarity food has better stats and getting a legendary food even gives an extra stat. </p> <br/>
-<p align="center"> 
+<div align="center">
 
 https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/e394ec3f-bace-4de5-8a85-f3db0c56e986
+
+</div>
 
 <!--
 
