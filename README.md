@@ -54,15 +54,6 @@ https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/59cfe18d-b80b-4354
 <p align="center"><img src="https://i.imgur.com/MEM73w5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
 <br />
 <br />
-<h3> <p align="center">Fishing minigame </p> </h3>
-<p align="center">Buy a fishing rod and start fishing in a pond with randomly generated fishes with different rarities. Watch out for the tension meter, the line can break! Once you catch a fish, you can either cook it or sell it.</p> <br/>
-<p align="center"> 
- 
-https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/6f805820-2750-4c49-8702-e6bb5298f9dc 
- 
-</p>
-<br />
-<br />
 <h3> <p align="center">Cooking minigame </p> </h3>
 <p align="center">Once you have enough ingredients for a recipe, you can start cooking it. Perform a qte for each ingredient that the recipe requires. Hitting all the qte's gives you a 3 star food, while missing qte's gives you a lower star food. You can get higher rarity food by using high rarity ingredients and getting a 3 star food. Higher rarity food has better stats and getting a legendary food even gives an extra stat. </p> <br/>
 <p align="center"> 
