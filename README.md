@@ -2,7 +2,7 @@
 <h2>Work in progress, may not represent final product</h2>
 
 <h2>Description</h2>
-I am developing a virtual desktop AI pet game on Unity. You can have your own AI characters roaming on your desktop and talk to them. The characters have emotions and they also have stats like health, thirst, energy etc. You can feed your character by either buying food from the shop or cook yourself in a cooking minigame. You can make your character do activities or you can play some minigames yourself like fishing, cooking, combat etc.
+I am developing a virtual desktop AI pet game on Unity. You can have your own AI characters roaming on your desktop and talk to them. The characters have emotions and they also have stats like health, thirst, energy etc. You can feed your character by either buying food from the shop or cook yourself in a cooking minigame. You can play some activities like fishing, cooking, combat, mining etc.
 <br />
 
 
@@ -14,14 +14,18 @@ I am developing a virtual desktop AI pet game on Unity. You can have your own AI
 
 <h2>Images and videos of the game</h2>
 
+
+
+
+
 </p>
 <br />
 <br />
-<h3> <p align="center">Combat minigame </p> </h3>
-<p align="center">Choose a character that has character specific actions. Choose one of the game changing random anomalies from a big pool of anomalies. Fight against randomly generated enemies in a hexagon grid turn-based game. You have a limited amount of action points each turn that you can use to perform one of the actions. Kill all the enemies to go to the next wave. Once you kill all the enemies, you spawn in a supply room with 4 random tiles that are either normal combat tiles, elite combat tiles, boss combat tiles, shop tiles etc. Moving to the shop tile opens the shop where you can buy new actions tiles and more with the gold you earned after beating a wave. Combat tiles start the next wave, and on the very last wave the boss combat tile spawns where you fight a challanging boss.</p> <br/>
+<h3> <p align="center">Activities </p> </h3>
+<p align="center"> Choose one of the activities and play it while browsing the web.</p> <br/>
 <p align="center"> 
- 
-https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/5ffa5be7-b331-42eb-92c0-9b6669c0fb86
+
+https://github.com/Mudias/VirtualDesktopAIPet/assets/54130588/59cfe18d-b80b-4354-9578-6d1ee95a1872
 
 </p>
 
